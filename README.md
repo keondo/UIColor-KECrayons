@@ -16,4 +16,4 @@ Add the `.h` and `.m` to your project, import the `.h` and the 47 crayon colours
 
 The colour names are those which appear if you click a colour in the OSX chooser.
 
-Even though it peeved me just a tiny bit, I decided to use the US spelling of the word 'colour' in the instance names so they didn't jar with the built-in colour names.
+Note that I am using the US spelling of the word 'colour' in the instance names so they gel with the built-in colour names.
